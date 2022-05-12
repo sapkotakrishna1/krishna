@@ -1,4 +1,4 @@
-/*------------typing animation----------------*/
+/*------------typing animation---------------*/
 var typed= new Typed(".typing",{
     strings:["","web designer","Web developer"],
     typeSpeed:100,
